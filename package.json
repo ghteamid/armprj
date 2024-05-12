@@ -1,4 +1,6 @@
 {
+  "publishConfig": {
+  "@ghteamid:registry": "https://npm.pkg.github.com"
   "name": "armprj",
   "version": "1.0.0",
   "description": "",
